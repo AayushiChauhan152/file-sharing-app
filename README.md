@@ -4,4 +4,4 @@
 
 <h2>Installations</h2>
 
-<h4>After download or clone run npm install OR yarn install to install all the dependancies.Also do not forget to put all creadentials into .env file</h4>
+<h4>After download or clone run npm install OR yarn install to install all the dependancies.Also do not forget to put all credentials into .env file</h4>
